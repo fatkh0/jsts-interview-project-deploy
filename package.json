@@ -2,7 +2,7 @@
   "name": "github-info-app",
   "version": "0.1.0",
   "private": true,
-
+  "homepage": "https://fatkh0.github.io/jsts-interview-project-deploy/",
   "dependencies": {
     "@material-ui/styles": "^4.11.4",
     "@testing-library/jest-dom": "^5.16.2",
